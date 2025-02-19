@@ -4,4 +4,6 @@
 
 *.pkl
 
-ZINC
+250k_rndm_zinc_drugs_clean_3.csv
+
+weights
