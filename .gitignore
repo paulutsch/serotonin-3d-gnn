@@ -4,6 +4,6 @@
 
 data/*
 
-.pkl
+*.pkl
 
 weights/*
