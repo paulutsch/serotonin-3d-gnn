@@ -1,0 +1,1 @@
+{"best_params_sero_gcn": {"lr": 0.01, "n_hidden": 64, "epochs": 30}, "final_R_est_sero_gcn": 0.5237212095941816}
