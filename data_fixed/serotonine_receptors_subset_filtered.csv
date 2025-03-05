@@ -1,0 +1,5 @@
+ChEMBL ID;Name;UniProt Accessions;Type;Organism;Compounds;Activities;Tax ID;Species Group Flag
+CHEMBL214;Serotonin 1a (5-HT1a) receptor;P08908;SINGLE PROTEIN;Homo sapiens;9246;15316;9606;FALSE
+CHEMBL225;Serotonin 2c (5-HT2c) receptor;P28335;SINGLE PROTEIN;Homo sapiens;7165;11942;9606;FALSE
+CHEMBL1833;Serotonin 2b (5-HT2b) receptor;P41595;SINGLE PROTEIN;Homo sapiens;5395;10739;9606;FALSE
+CHEMBL224;Serotonin 2a (5-HT2a) receptor;P28223;SINGLE PROTEIN;Homo sapiens;9084;15395;9606;FALSE
