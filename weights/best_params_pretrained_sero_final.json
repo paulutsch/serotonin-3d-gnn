@@ -1,1 +1,1 @@
-{"best_params_pretrained_sero_gcn": {"lr": 0.005, "n_hidden": 64, "epochs": 30}, "final_R_est_pretrained_sero_gcn": 0.45201855174132755}
+{"best_params_pretrained_sero_gcn": {"lr": 0.005, "n_hidden": 64, "epochs": 40}, "final_R_est_pretrained_sero_gcn": 0.4526508478181703}
